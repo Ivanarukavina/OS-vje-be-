@@ -1,0 +1,7 @@
+mkdir vjezba2
+cd vjezba2
+touch file.txt
+cp file.txt file_copy.txt
+ls
+rm file.txt && cd # bila sam u direktoriju vjezba2 pa nisam pisala rm/vjezba2
+rmdir vjezba2 # ne može se izbrisati jer direktorij nije prazan
