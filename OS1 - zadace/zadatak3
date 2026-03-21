@@ -1,0 +1,11 @@
+mkdir vjezba3
+cd vjezba3 && mkdir backup
+touch notes.txt todo.txt script.sh
+cp notes.txt backup/
+cp todo.txt backup/
+cp script.sh backup/
+rm script.sh
+ls
+mkdir backup/$USER
+mv backup/notes.txt backup/$USER
+mv backup/todo.txt backup/$USER
