@@ -1,0 +1,7 @@
+mkdir vjezba5
+cd vjezba5
+touch $RANDOM.num
+ls
+cp 21069.num backup.num
+mkdir backup
+mv backup.num backup
