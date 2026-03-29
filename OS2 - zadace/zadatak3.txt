@@ -1,0 +1,5 @@
+Zadatak 3:
+
+cp -rv vjezba_2/data/. vjezba_2/backup/
+cd vjezba_2/data
+ls -laS ../backup
