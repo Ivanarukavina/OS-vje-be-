@@ -1,0 +1,8 @@
+Zadatak 4:
+
+cd vjezba_2/data
+rm -iv script.js style.css
+cp -rvn ../backup/* .
+cp -rvn ../backup/.* .
+ls -lat
+ls -a
