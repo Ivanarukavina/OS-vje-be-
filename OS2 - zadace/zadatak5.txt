@@ -1,0 +1,11 @@
+Zadatak 5:
+
+mkdir vjezba_5
+cd vjezba_5
+mkdir folder1 folder2
+touch file1.txt file2.txt .hidden
+touch folder1/a.txt folder1/b.txt
+touch folder2/c.txt
+ls -laS
+ls -lSh
+ls -R
